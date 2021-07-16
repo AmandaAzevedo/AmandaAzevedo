@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
+
 **AmandaAzevedo/AmandaAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá! Bem-vindo(a) ao meu perfil!
+
+Meu nome é Amanda.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/amandaazevedomartins/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/amandaam_5)
+[![Site-resumo Badge](https://img.shields.io/website?up_message=Site-Resumo&url=https%3A%2F%2Femersondantas.eti.br)](https://amandaam.me)
